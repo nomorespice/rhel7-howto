@@ -6,4 +6,5 @@
 - [How to install NAGIOS on RHEL 7](https://github.com/nomorespice/rhel7-howto/wiki/How-to-install-Nagios-on-RHEL-7)
 - [How to install NGINX Web Server on RHEL 7](https://github.com/nomorespice/rhel7-howto/wiki/How-to-install-NGINX-Web-Server-on-RHEL-7)
 - [How to compile and install SNORT on RHEL 7](https://github.com/nomorespice/rhel7-howto/wiki/How-to-compile-and-install-SNORT-on-RHEL-7)
+- [How to install SQUID on RHEL 7](https://github.com/nomorespice/rhel7-howto/wiki/How-to-install-SQUID-on-RHEL-7)
 - - - -
